@@ -52,7 +52,7 @@ def total_gross(source)
   i = 0
   while i < directors.length do
     puts totals[:directors[i]]
-    #total += totals[:directors[i]]
+    #total += totals
     i += 1
   end
   
