@@ -51,9 +51,7 @@ def total_gross(source)
   
   i = 0
   while i < directors.length do
-    pp totals
     total += totals[directors[i]]
-    #total += totals[directors[i]]
     i += 1
   end
   
